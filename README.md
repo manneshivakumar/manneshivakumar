@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">A passionate data engineer from India with 10+ years of technical expertise in Software Development Life Cycle process which includes Analysis, Design, Development, Testing and Implementation. And a passionate and motivated Machine learning enthusiastic with hands on experience in Python, Machine learning, Deep learning, NLP, Statistics, AWS and SQL.</h3>
+<h3 align="center">A passionate data engineer from India with 10+ years of technical expertise in Software Development Life Cycle process which includes Analysis, Design, Development, Testing and Implementation. And a passionate and motivated Machine learning enthusiastic with hands on experience in SQL, NoSQL, Data Engineer, Python, Machine learning, Statistics, AWS.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/manneshivakumar](https://github.com/manneshivakumar)
 
 - 📝 I regularly write articles on [https://medium.com/@manne.shivakumar](https://medium.com/@manne.shivakumar)
 
-- 💬 Ask me about **SQL, NoSQL, Python, Machine Learning, Deep Learning, NLP, AWS**
+- 💬 Ask me about **SQL, NoSQL, Python, Data Engineer, Machine Learning, AWS**
 
 - 📫 How to reach me **manne.shivakumar@gmail.com**
 
