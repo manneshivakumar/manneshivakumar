@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@manne.shivakumar](https://medium.com/@manne.shivakumar)
 
-- 💬 Ask me about **MS SQL, Python, Machine Learning, Deep Learning, NLP, AWS**
+- 💬 Ask me about **SQL, NoSQL, Python, Machine Learning, Deep Learning, NLP, AWS**
 
 - 📫 How to reach me **manne.shivakumar@gmail.com**
 
