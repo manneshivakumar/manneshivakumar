@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manneshivakumar](https://github.com/manneshivakumar)
 
-- 📝 I regularly write articles on [https://medium.com/@manne.shivakumar](https://medium.com/@manne.shivakumar)
-
 - 💬 Ask me about **SQL, NoSQL, Python, Data Engineer, Machine Learning, AWS**
 
 - 📫 How to reach me **manne.shivakumar@gmail.com**
